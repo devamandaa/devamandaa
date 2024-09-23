@@ -27,9 +27,9 @@
   
  
 <div align="left">
-  <img src="https://www.youtube.com/@devamandaa" height="35" alt="youtube logo"  />
-  <img src="https://www.instagram.com/devamanda_/" height="35" alt="instagram logo"  />
-  <img src="https://discord.gg/Pp75FKzc" height="35" alt="discord logo"  />
+  <img src="https://www.youtube.com/@devamandaa" height="35" alt="youtube logo"/>
+  <img src="https://www.instagram.com/devamanda_/" height="35" alt="instagram logo"/>
+  <img src="https://discord.gg/Pp75FKzc" height="35" alt="discord logo"/>
   <img src="https://www.linkedin.com/in/amanda-ribeiro-14b681302/" height="35" alt="linkedin logo"  />
 </div>
 

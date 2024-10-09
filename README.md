@@ -2,7 +2,7 @@
 
 
 
-💻 Desenvolvedora Web Júnior com foco em front-end, apaixonada por criar interfaces modernas, interativas e funcionais.
+💻 Sou engenheira de software, especializada no desenvolvimento de soluções eficientes e escaláveis, com foco em tecnologias web modernas.
 
 🎨 Adoro trabalhar com design responsivo e código limpo, utilizando ferramentas como Tailwind CSS para melhorar a experiência do usuário.
 

@@ -8,8 +8,6 @@
 
  👩🏻‍🎓Formada Análise e Desenvolvimento de Sistemas
  
- 📚 Pós Graduação em Engenharia de Software
- 
  💻 Gestão em Tecnologia da Informação 2º semestre
 
 <div align="left">

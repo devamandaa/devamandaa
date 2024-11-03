@@ -2,9 +2,7 @@
 
 
 
-💻 Sou engenheira de software, especializada no desenvolvimento de soluções eficientes e escaláveis, com foco em tecnologias web modernas.
-
-🎨 Adoro trabalhar com design responsivo e código limpo, utilizando ferramentas como Tailwind CSS para melhorar a experiência do usuário.
+Sou Engenheira de Software com experiência em desenvolvimento e manutenção de aplicativos e sites, utilizando tecnologias como JavaScript, React, TypeScript e Tailwind CSS.
 
  👩🏻‍🎓Formada Análise e Desenvolvimento de Sistemas
  

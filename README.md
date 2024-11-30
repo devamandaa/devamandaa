@@ -2,7 +2,7 @@
 
 
 
-Sou Engenheira de Software com experiência em desenvolvimento e manutenção de aplicativos e sites. 
+Sou uma Desenvolvedora de Software com experiência em desenvolvimento e manutenção de aplicativos e sites. 
 
 Utilizando tecnologias como JavaScript, React, TypeScript e Tailwind CSS.
 

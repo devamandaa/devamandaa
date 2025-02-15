@@ -7,5 +7,7 @@ Engenheira de Software Júnior, desenvolvo soluções tecnológicas inovadoras, 
 🛠️ Habilidades 
 Linguagens de Programação e Frameworks:
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
+            <i class="devicon-html5-plain colored"></i>
+          
           

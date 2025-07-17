@@ -1,4 +1,6 @@
 👩‍💻 Amanda Ribeiro │ Desenvolvedora Full Stack
+
+
 Olá! Sou desenvolvedora Full Stack apaixonada por criar soluções digitais que realmente fazem a diferença. Trabalho com tecnologias modernas tanto no front-end quanto no back-end, buscando sempre escrever códigos limpos, reutilizáveis e bem estruturados.
 
 Tenho experiência prática com HTML, CSS, JavaScript (vanilla), Ember.js e React no front, e PHP com Laravel no back-end, além de trabalhar com APIs REST/JSON, automações com n8n, e versionamento com Git.

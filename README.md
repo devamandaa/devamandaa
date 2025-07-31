@@ -1,4 +1,6 @@
 👩‍💻 Amanda Ribeiro | Desenvolvedora Full Stack
+
+
 Olá! Sou desenvolvedora Full Stack com foco em criar soluções digitais eficientes, escaláveis e orientadas à experiência do usuário. Tenho paixão por transformar ideias em aplicações bem estruturadas, funcionais e de fácil manutenção.
 
 Atuo no desenvolvimento de sistemas completos, com domínio nas principais tecnologias de front-end e back-end, prezando sempre por código limpo, reutilizável e com boas práticas de desenvolvimento.

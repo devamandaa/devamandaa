@@ -1,29 +1,27 @@
-👩‍💻 Amanda Ribeiro │ Desenvolvedora Full Stack
+👩‍💻 Amanda Ribeiro | Desenvolvedora Full Stack
+Olá! Sou desenvolvedora Full Stack com foco em criar soluções digitais eficientes, escaláveis e orientadas à experiência do usuário. Tenho paixão por transformar ideias em aplicações bem estruturadas, funcionais e de fácil manutenção.
 
+Atuo no desenvolvimento de sistemas completos, com domínio nas principais tecnologias de front-end e back-end, prezando sempre por código limpo, reutilizável e com boas práticas de desenvolvimento.
 
-Olá! Sou desenvolvedora Full Stack apaixonada por criar soluções digitais que realmente fazem a diferença. Trabalho com tecnologias modernas tanto no front-end quanto no back-end, buscando sempre escrever códigos limpos, reutilizáveis e bem estruturados.
+🚀 Tecnologias que utilizo no dia a dia
+Front-end:
+HTML5, CSS3, JavaScript (Vanilla), Ember.js, React
 
-Tenho experiência prática com HTML, CSS, JavaScript (vanilla), Ember.js e React no front, e PHP com Laravel no back-end, além de trabalhar com APIs REST/JSON, automações com n8n, e versionamento com Git.
-Gosto de transformar ideias em sistemas funcionais e bem pensados, com atenção especial à usabilidade e à organização do código.
+Back-end:
+PHP, Laravel
 
-🚀 Tecnologias que mais utilizo:
+Banco de Dados:
+MySQL
 
-Front-end: HTML5, CSS3, JavaScript, Ember.js, React
+Integrações e automações:
+APIs RESTful/JSON, JSON:API, n8n
 
-Back-end: PHP, Laravel
+Outros:
+Git, GitHub, JWT, padrões de arquitetura, boas práticas de UX/UI
 
-Banco de dados: MySQL
+🔍 Principais frentes de atuação
+Desenvolvimento de sistemas de gestão de tarefas e controle de horários
 
-Integrações: APIs RESTful, JSON, n8n
+Implementação de plataformas de crediário com emissão de relatórios e dashboards
 
-Outros: Git, GitHub, JSON:API, JWT, boas práticas de UX/UI
-
-🔍 Atualmente estou desenvolvendo projetos que envolvem:
-
-Gestão de tarefas e controle de horários
-
-Sistemas de crediário e emissão de relatórios
-
-Plataformas administrativas e personalizadas com foco em performance
-
-📚 Em constante aprendizado e sempre aberta a novos desafios. Se quiser colaborar ou trocar ideias, será um prazer!
+Criação de interfaces administrativas customizadas com foco em performance e usabilidade

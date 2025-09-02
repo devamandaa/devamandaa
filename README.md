@@ -1,3 +1,6 @@
+# 👩🏻‍💻 Amanda Ribeiro 
+
+
 Sou Amanda Ribeiro, Engenheira de Software Júnior formada em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end e em constante evolução para atuar também como fullstack. Tenho paixão por criar interfaces modernas, responsivas e intuitivas, sempre priorizando usabilidade, performance e boas práticas de código.
 
 
